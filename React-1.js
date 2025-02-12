@@ -1,5 +1,4 @@
-//Implement a basic counter using React’s useState hook. The counter should have “Increment”
-and “Decrement” buttons.
+//Implement a basic counter using React’s useState hook. The counter should have “Increment” and “Decrement” buttons.
 
 import React, { useState } from 'react';
 
